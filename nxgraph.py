@@ -38,7 +38,7 @@ mygraph.add_edge('Denver', 'Pierre', weight=526)
 mygraph.add_edge('Denver', 'Lincoln', weight=667)
 mygraph.add_edge('Denver', 'Amarillo', weight=424)
 mygraph.add_edge('Albuquerque', 'Amarillo', weight=288)
-mygraph.add_edge('Albuquerque', 'San Antonio', weight=199)
+mygraph.add_edge('Albuquerque', 'San Antonio', weight=714)
 mygraph.add_edge('El Paso', 'Amarillo', weight=421)
 mygraph.add_edge('El Paso', 'San Antonio', weight=555)
 
